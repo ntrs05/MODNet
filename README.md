@@ -14,3 +14,5 @@ py -m demo.image_matting.colab.inference --input-path "input/alonso.jpg" --outpu
 ```
 
 A new file will appear in the `result` folder, it's a new image without the background named `alonso_foreground.png`
+
+You can do this with multiple images, just put how many images you want into the `input` the folder and run the command
